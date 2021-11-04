@@ -1,0 +1,22 @@
+{
+  "name": "administracion_npm",
+  "version": "1.0.0",
+  "description": "paquete de prueba npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdanrc/PaqueteNPM.git"
+  },
+  "keywords": [
+    "prueba"
+  ],
+  "author": "ferdanrc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdanrc/PaqueteNPM/issues"
+  },
+  "homepage": "https://github.com/ferdanrc/PaqueteNPM#readme"
+}
